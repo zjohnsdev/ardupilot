@@ -1,0 +1,1 @@
+This branch is used to generate custom code for Arrive mission and winch to work with ArduCopter 4.5.2
